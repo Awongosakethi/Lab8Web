@@ -1,0 +1,24 @@
+table{
+    border-collapse:collapse;
+    font:normal normal 12px Verdana,Arial,Sans-Serif;
+    color:#333333;
+}
+table th, td {
+    vertical-align:top;
+    padding:5px 10px;
+    border:1px solid #696969;
+}
+form label {
+    display: inline-block;
+    width: 100px;
+}
+form input[type="submit"] {
+    background-color: #1873c7;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 5px 10px;
+    position: left;
+}
+form input[type="text"] {
+    border: 1p solid #197143;
+}
